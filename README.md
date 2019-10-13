@@ -7,3 +7,6 @@ Tool to draw simple graphs with nodes and edges that can be directed.
 - Use of cytoscape sub-package of Dash to draw graphs
 - Use of dash layout and storing data in the browser
 - Complex use of dash callbacks
+
+## Use of the tool
+You can run the file `main.py` to access the tool on your browser.
