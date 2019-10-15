@@ -1,0 +1,125 @@
+{
+  "next_node_id": "8",
+  "next_edge_id": "-9",
+  "graph": [
+    {
+      "data": {
+        "id": "0",
+        "label": "D1"
+      },
+      "classes": "round"
+    },
+    {
+      "data": {
+        "id": "1",
+        "label": "D2"
+      },
+      "classes": "round"
+    },
+    {
+      "data": {
+        "id": "2",
+        "label": "P1"
+      },
+      "classes": "round"
+    },
+    {
+      "data": {
+        "id": "3",
+        "label": "P2"
+      },
+      "classes": "round"
+    },
+    {
+      "data": {
+        "id": "4",
+        "label": "\"Alice\""
+      },
+      "classes": "square"
+    },
+    {
+      "data": {
+        "id": "5",
+        "label": "\"David\""
+      },
+      "classes": "square"
+    },
+    {
+      "data": {
+        "id": "6",
+        "label": "\"Carl\""
+      },
+      "classes": "square"
+    },
+    {
+      "data": {
+        "id": "7",
+        "label": "\"Bob\""
+      },
+      "classes": "square"
+    },
+    {
+      "data": {
+        "source": "0",
+        "target": "4",
+        "id": "-1",
+        "label": "name"
+      },
+      "classes": "directed solid"
+    },
+    {
+      "data": {
+        "source": "1",
+        "target": "7",
+        "id": "-2",
+        "label": "name"
+      },
+      "classes": "directed solid"
+    },
+    {
+      "data": {
+        "source": "2",
+        "target": "6",
+        "id": "-3",
+        "label": "name"
+      },
+      "classes": "directed solid"
+    },
+    {
+      "data": {
+        "source": "3",
+        "target": "5",
+        "id": "-4",
+        "label": "name"
+      },
+      "classes": "directed solid"
+    },
+    {
+      "data": {
+        "source": "0",
+        "target": "2",
+        "id": "-5",
+        "label": "treats"
+      },
+      "classes": "directed solid"
+    },
+    {
+      "data": {
+        "source": "0",
+        "target": "3",
+        "id": "-6",
+        "label": "treats"
+      },
+      "classes": "directed solid"
+    },
+    {
+      "data": {
+        "source": "1",
+        "target": "2",
+        "id": "-7",
+        "label": "treats"
+      },
+      "classes": "directed solid"
+    }
+  ]
+}
